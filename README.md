@@ -1,1 +1,1 @@
-# Projeto Curso Python
+# Projeto Formação Python. Do zero ao avançado!
